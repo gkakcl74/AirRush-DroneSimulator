@@ -1,5 +1,6 @@
 # AirRush-DroneSimulator
-
+This game was created as a
+university semester project.
 ## Team Members
 Soo-Hyung Lee
 
